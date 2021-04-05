@@ -6,6 +6,9 @@ Ini adalah project game html5 web pertama saya, dimana karakter seorang ninja ya
 - CSS
 - JavaScript ( JQUERY, Canvas )
 
+# Note
+Jangan Lupa Follow IG Saya Dan Like Repo Ini Yaaa, Hehe :)
+
 # LICENSE
 - MIT LICENSE
 - Created By Me ( 14 y.o Coders )
